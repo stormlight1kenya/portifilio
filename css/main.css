@@ -1,0 +1,153 @@
+/*----------------------------- Header------------------------------------------ */
+
+.header {
+    background-color: #dda0dd;
+}
+.header h1{
+    text-align: center;
+    padding-top: 30px;
+    color: #ffffff;
+}
+.header h2{
+    text-align: center;
+    color: #ffffff;
+}
+
+/*----------------------------------container------------------------------------------ */
+
+.container{
+    text-align: left;
+}
+
+a{
+    color: #0000ff;
+    text-decoration: none;
+}
+
+
+
+/*---------------------------------------aboutme--------------------------------------- */
+
+.aboutme{
+    padding-top: 15px;
+}
+
+
+/*-------------------------------------Work--------------------------------------*/
+
+
+.work{
+    padding-top: 15px;
+}
+.work h3{
+    color:#b110b1;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+/*---------------------------------------Academic--------------------------------*/
+
+.academic{
+
+}
+.academic h3{
+    color:#b110b1;
+    text-decoration: underline;
+}
+
+
+
+/*------------------------------Education------------------------------------------*/
+
+.education{
+
+}
+.education h3{
+    color:#b110b1;
+    text-decoration: underline;
+}
+
+
+
+/*----------------------------------------Flex-----------------------------------*/
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+
+
+
+
+/*------------------------------Contact------------------------------------------*/
+
+.contact{
+    flex: 1;
+
+}
+.contact h3{
+    color:#b110b1;
+    text-decoration: underline;
+    
+}
+
+
+
+
+
+/*---------------------------------------Skills------------------------------------*/
+
+.skills{
+    flex: 1;
+    min-width: 350px;   
+
+}
+.skills h3{
+    color:#b110b1;
+    text-decoration: underline;
+}
+
+.skills ul{
+    list-style-type: none;
+    text-align: left;
+    
+}
+
+.skills li{
+    color: #000000;
+}
+
+/*------------------------------------Projects-----------------------------------*/
+
+.projects{
+
+}
+.projects h3{
+    color:#b110b1;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+/*---------------------------------footer--------------------------------------- */
+
+.footer{
+    background-color: #dda0dd;
+    padding: 20px;
+}
+.footer p{
+    text-align: center;
+    color: #ffffff;
+}
